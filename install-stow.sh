@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pacman -S -noconfirm -needed stow
+sudo pacman -S --noconfirm --needed stow
