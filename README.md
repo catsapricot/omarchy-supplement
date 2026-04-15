@@ -3,3 +3,4 @@ Packages, dotfiles, dan overrides tambahan yang digunakan setelah install Omarch
 
 ## Web App
 1. Discord
+2. Whatsapp
