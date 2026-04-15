@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pacman --noconfirm --needed firefox
+sudo pacman -S --noconfirm --needed firefox
