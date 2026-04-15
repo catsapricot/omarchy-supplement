@@ -1,7 +1,10 @@
 #!/bin/sh
 
 ./scripts/default-browser.sh
+
 ./install-firefox.sh
-./install-stow.sh
+./install-code.sh
 ./install-obsidian.sh
+./install-stow.sh
+
 ./install-hyprland-overrides.sh
