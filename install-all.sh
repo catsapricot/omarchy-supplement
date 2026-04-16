@@ -7,6 +7,7 @@
 ./install-base-devel.sh
 ./install-code.sh
 ./install-firefox.sh
+./install-libreofffice.sh
 ./install-obs.sh
 ./install-obsidian.sh
 ./install-spotify.sh
