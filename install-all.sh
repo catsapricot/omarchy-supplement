@@ -12,6 +12,7 @@
 ./install-spotify.sh
 ./install-stow.sh
 ./install-telegram.sh
+./install-ticktick.sh
 
 # Install fonts
 ./fonts/install-cabin.sh
