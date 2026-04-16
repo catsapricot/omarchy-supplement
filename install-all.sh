@@ -7,12 +7,13 @@
 ./install-base-devel.sh
 ./install-code.sh
 ./install-firefox.sh
+./install-obs.sh
 ./install-obsidian.sh
 ./install-spotify.sh
 ./install-stow.sh
 
 # Install fonts
-./fonts/install-cabin-font.sh
+./fonts/install-cabin.sh
 
 # Overrides
 ./install-hyprland-overrides.sh
