@@ -3,7 +3,7 @@
 # Default apps
 ./scripts/default-browser.sh
 
-# Install applications
+# Install packages
 ./install-base-devel.sh
 ./install-code.sh
 ./install-firefox.sh
