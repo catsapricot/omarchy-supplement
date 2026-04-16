@@ -11,6 +11,7 @@
 ./install-obsidian.sh
 ./install-spotify.sh
 ./install-stow.sh
+./install-telegram.sh
 
 # Install fonts
 ./fonts/install-cabin.sh
