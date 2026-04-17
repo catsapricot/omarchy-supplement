@@ -31,7 +31,7 @@ Berikut penjelasan tentang apa saja yang harus dilakukan setelah mengcloning rep
 ### Mensetup OneDrive
 1. Sumber: https://www.youtube.com/watch?v=u_W0-HEVOyg
 2. ```mkdir OneDrive``` di direktori Home
-3. Konfigurasi rclone
+3. Konfigurasi rclone<br />
     a. ```rclone config```<br />
     b. n/s/q> ```n```<br />
     c. name> ```OneDrive```<br />
@@ -47,6 +47,6 @@ Berikut penjelasan tentang apa saja yang harus dilakukan setelah mengcloning rep
     m. y/n> ```y```<br />
     n. y/e/d> ```y```<br />
     o. e/n/d/r/c/s/q> ```q```<br />
-4. Mount remote to local
+4. Mount remote to local<br />
     a. Masuk ke folder local: ```cd OneDrive/```<br />
     b. ```rclone --vfs-cache-mode writes mount OneDrive: ~/OneDrive &```
