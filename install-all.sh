@@ -10,6 +10,7 @@
 ./install-libreofffice.sh
 ./install-obs.sh
 ./install-obsidian.sh
+./install-rclone.sh
 ./install-spotify.sh
 ./install-stow.sh
 ./install-telegram.sh
