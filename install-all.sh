@@ -16,6 +16,7 @@
 ./install-stow.sh
 ./install-telegram.sh
 ./install-ticktick.sh
+./install-yazi.sh
 
 # Install fonts
 ./fonts/install-cabin.sh
