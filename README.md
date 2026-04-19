@@ -24,6 +24,7 @@ Berikut penjelasan tentang apa saja yang harus dilakukan setelah mengcloning rep
 ### Mensetup web app
 1. Discord
 2. Whatsapp
+3. ChatGPT
 
 
 ---
