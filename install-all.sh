@@ -1,8 +1,5 @@
 #!/bin/sh
 
-# Default apps
-./scripts/default-browser.sh
-
 # Install packages
 ./install-base-devel.sh
 ./install-code.sh
@@ -20,6 +17,9 @@
 
 # Install fonts
 ./fonts/install-cabin.sh
+
+# Default apps
+./scripts/default-browser.sh
 
 # Overrides
 ./install-hyprland-overrides.sh

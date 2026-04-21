@@ -50,4 +50,4 @@ Berikut penjelasan tentang apa saja yang harus dilakukan setelah mengcloning rep
     o. e/n/d/r/c/s/q> ```q```<br />
 4. Mount remote to local<br />
     a. Masuk ke folder local: ```cd OneDrive/```<br />
-    b. ```rclone --vfs-cache-mode writes mount OneDrive: ~/OneDrive &```
+    b. ```rclone --vfs-cache-mode=full writes mount OneDrive: ~/OneDrive &```
