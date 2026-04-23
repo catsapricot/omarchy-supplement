@@ -1,14 +1,18 @@
 #!/bin/sh
 
 # Install packages
+./install-apache.sh
 ./install-base-devel.sh
 ./install-code.sh
 ./install-composer.sh
 ./install-firefox.sh
 ./install-jupyter-notebook.sh
 ./install-libreofffice.sh
+./install-mariadb.sh
 ./install-obs.sh
 ./install-obsidian.sh
+./install-php.sh
+./install-phpmyadmin.sh
 ./install-pip.sh
 ./install-rclone.sh
 ./install-spotify.sh
