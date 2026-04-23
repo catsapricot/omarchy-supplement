@@ -5,7 +5,6 @@
 ./install-base-devel.sh
 ./install-code.sh
 ./install-composer.sh
-./install-figma.sh
 ./install-firefox.sh
 ./install-jupyter-notebook.sh
 ./install-mariadb.sh
