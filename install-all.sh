@@ -7,10 +7,10 @@
 ./install-composer.sh
 ./install-firefox.sh
 ./install-jupyter-notebook.sh
-./install-libreofffice.sh
 ./install-mariadb.sh
 ./install-obs.sh
 ./install-obsidian.sh
+./install-onlyoffice.sh
 ./install-php.sh
 ./install-phpmyadmin.sh
 ./install-pip.sh
