@@ -12,6 +12,7 @@
 ./install-pip.sh
 ./install-rclone.sh
 ./install-spotify.sh
+./install-sqlite.sh
 ./install-stow.sh
 ./install-telegram.sh
 ./install-ticktick.sh
