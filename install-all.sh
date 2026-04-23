@@ -3,6 +3,7 @@
 # Install packages
 ./install-base-devel.sh
 ./install-code.sh
+./install-composer.sh
 ./install-firefox.sh
 ./install-jupyter-notebook.sh
 ./install-libreofffice.sh
