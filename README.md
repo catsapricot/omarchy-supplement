@@ -25,6 +25,7 @@ Berikut penjelasan tentang apa saja yang harus dilakukan setelah mengcloning rep
 1. Discord
 2. Whatsapp
 3. ChatGPT
+4. Figma
 
 
 ---
